@@ -73,10 +73,13 @@ QuoteLab/
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
-You can add screenshots like this:
+### Homepage
+![QuoteLab Homepage](docs/screenshots/home-page.png)
 
+### Theme View
+![QuoteLab Theme View](docs/screenshots/theme-view.png)
 ---
 
 ## 🔮 Future Enhancements
