@@ -5,6 +5,10 @@ It delivers inspirational quotes with advanced UI effects, offline support, them
 
 ---
 
+## 🌐 Live Demo
+
+[Visit QuoteLab](https://jaish2008.github.io/quote-generator/)
+
 ## 🚀 Live Features
 
 - 🎯 Random quote generator  
