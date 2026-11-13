@@ -40,10 +40,12 @@ It delivers inspirational quotes with advanced UI effects, offline support, them
 
 ## Project structure
 
+```
 QuoteLab/
 ├── index.html
 └── README.md
 
+```
 ---
 
 
