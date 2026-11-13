@@ -37,8 +37,14 @@ It delivers inspirational quotes with advanced UI effects, offline support, them
 - **Font Awesome** — Icons  
 
 ---
+
+## Project structure
+
+QuoteLab/
 ├── index.html
-├── README.md
+└── README.md
+
+---
 
 
 > ⚠️ All CSS and JavaScript are embedded inside `index.html` for easy deployment.
